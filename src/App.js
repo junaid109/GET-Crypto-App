@@ -6,7 +6,7 @@ import { Layout, Typography, Space} from 'antd';
 import { Navbar, Footer } from './components/Navbar';
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <header className="navbar">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
